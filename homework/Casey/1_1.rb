@@ -10,3 +10,5 @@ if  name == teacher [0] || name == teacher [1]
 else
 	puts "Welcome! Please sign in and take a seat."
 end		
+
+#use each function for loop in case of lots of teachers or students
