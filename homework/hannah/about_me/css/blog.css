@@ -1,0 +1,44 @@
+body {
+	background-color: gold;
+	color: crimson;
+}
+
+img {
+	float: left;
+	margin: 1em;
+}
+
+h2 {
+	text-align: center;
+	font-weight: 2em;
+}
+
+.box {
+	border-radius: 2em;
+	border: 2px solid crimson;
+	margin-left: 30%;
+	margin-right: 50%;
+	padding: 10px;
+}
+
+.left-box {
+	border-radius: 2em;
+	border: 2px solid crimson;
+	margin-left: 5%;
+	margin-right: 55%;
+	float: left;
+	padding: 10px;
+}
+
+
+.center-box {
+	border-radius: 2em;
+	border: 2px solid crimson;
+	margin-left: 33%;
+	margin-right: 33%;
+	padding: 10px;
+}
+
+#center {
+	text-align: center;
+}
